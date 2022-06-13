@@ -2,6 +2,8 @@
 
 > Site : https://aliciapetitpas.github.io/P2-Transformer-une-maquette-en-site-web/
 
-# Porject 2 : Turn mock-ups into website (HTML & CSS)
+__________________________________________
+
+# Project 2 : Turn mock-ups into website (HTML & CSS)
 
 > Website: https://aliciapetitpas.github.io/P2-Transformer-une-maquette-en-site-web/
